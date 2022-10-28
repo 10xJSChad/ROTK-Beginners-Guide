@@ -33,3 +33,18 @@ You can learn another language by interacting with a language book, when opened,
 When a player interacts with the language book of a language they already know, it will tell them the correct word that a non-speaker of the language would have to enter when using the book.
 
 After entering a word, there is an hour l hour cooldown before you can interact with a book again.
+
+Crafting
+------
+There are three different crafting stations as of ROTK 2.1; the anvil, workbench, and countertop.
+
+These simply just have a different selection of crafting recipes, other than that they are identical to each other.
+
+Smelting
+------
+Ore has to be smelted into bars in order to be crafted into anything, you can smelt ore at a furnace.
+
+To smelt your ore, simply interact with a furnace and select your ore. Once your ore has been inserted into the furnace, you will need to power the furnace with coal by performing a held interact on the furnace while having coal in your inventory.
+
+
+
