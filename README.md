@@ -37,7 +37,6 @@ After entering a word, there is an hour l hour cooldown before you can interact 
 Crafting
 ------
 There are three different crafting stations as of ROTK 2.1; the anvil, workbench, and countertop.
-
 These simply just have a different selection of crafting recipes, other than that they are identical to each other.
 
 Smelting
