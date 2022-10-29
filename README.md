@@ -1,7 +1,18 @@
 # ROTK Beginners' Guide
 
-Classes
-------
+### Table of Contents
+1. [Classes](#classes)
+2. [Languages](#languages)
+3. [Factions](#factions)
+4. [Gathering](#gathering)
+5. [Crafting](#crafting)
+6. [Smelting](#smelting)
+7. [Baking](#baking)
+8. [Distilling/Brewing](#distillingbrewing)
+9. [Farming](#farming)
+
+
+## Classes
 ROTK has a total of three classes, the **gatherer**, **blacksmith**, and **engineer**.
 To select a class, you have to talk to the class master NPC for the class you wish to become. Once you have selected a class you will not be able to switch until the **server-wide** class selection cooldown reset. This happens every 10 days.
 
@@ -15,8 +26,7 @@ The blacksmith has the majority of the crafting recipes in ROTK, everything from
 The engineer is a master of crafting weapons of destruction. The majority of engineer crafting recipes are for combat and as such this is a class best suited for organized groups that may find themselves fighting a war.
 <br><br>
 
-Languages
-------
+## Languages
 As of ROTK 2.1, there are a total of X languages to choose from; English, Polish, Latin, Hungarian, German, and French.
 By default, everyone speaks the same language known as 'Common'. When you first spawn with a fresh character, you'll be prompted to pick a second language.
 Using the player menu (RCTRL), you are able select your currently active language. 
@@ -32,16 +42,15 @@ When a player interacts with the language book of a language they already know, 
 
 After entering a word, there is an hour cooldown before you can interact with a book again.
 
-Factions
-------
+## Factions
 ***Note: On the ROTK 2.1 EU server, there is a distinction between guilds and factions, this guide will not make any distinction between them since they both use the same underlying faction system in the ROTK mod.*** <br><br>
 As of ROTK 2.1, you can form a faction by talking to the Faction Master NPC.<br>
 Faction, have their own storage that any member of the faction can use, factions can also own property and doors that only they can open and close.
 
 Press RSHIFT to open the faction menu, here you can invite and kick other players to your faction, set their rank within the faction, change your faction's colors, and dissolve your faction.
 
-Gathering
-------
+## Gathering
+
 There are various raw materials that can be gathered by any player of the gatherer class.
 
 The current raw materials are: Iron Ore, Gold Ore, Sulphur, Rock, Coal, and Wood Log.<br>
@@ -55,34 +64,29 @@ Red sparks mean you are using the wrong tool or are dealing too little damage, a
 <br><br>
 ***NOTE: Gathering sparks do NOT look like the normal sparks that appear when you hit something, these look like small floaty orbs, a bit fantasy looking.***
 
-Crafting
-------
+## Crafting
 There are three different crafting stations as of ROTK 2.1; the anvil, workbench, and countertop.
 Each crafting station has a different set of recipes that can be crafted using it.
 
-Smelting
-------
+## Smelting
 Ore has to be smelted into bars in order to be crafted into anything, you can smelt ore at a furnace.
 
 To smelt your ore, simply interact with a furnace and select your ore. Once your ore has been inserted into the furnace, you will need to power the furnace with coal by performing a held interact on the furnace while having coal in your inventory.
 
-Baking
-------
+## Baking
 Baking produces food that can be consumed for temporary health/stamina buffs, ingredients crafted into raw food at a countertop.
 To cook your raw food, insert it into a baking oven by interacting with it and selecting the correct recipe, then add firewood to the baking oven by performing a held interact on it while having firewood in your inventory.
 
 Be careful not to burn your food by forgetting it in the oven after it's done cooking!
 
-Distilling/Brewing
-------
+## Distilling/Brewing
 The process of creating alcoholic drinks is identical to baking, except for that whatever you are distilling or brewing can't be burnt.
 
 Once you have a finished barrel of alcohol, you can insert it into a keg (taverns should have one keg at the very least). You can then grab a mug or chalice and fill it up using the keg! 
 
 Use the 'Drink' emote to take a swig of your drink, but take it slow unless you want to get absolutely hammered.
 
-Farming
-------
+## Farming
 Seeds can obtained from wild plants and planted at a soil plot. To plant a seed, interact with a soil plot and select the seed you want to plant.
 To farm effectively, your loadout should have each of these weapons: Watering Can, Hoe, and Sickle.
 
