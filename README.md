@@ -5,8 +5,6 @@ Classes
 ROTK has a total of three classes, the **gatherer**, **blacksmith**, and **engineer**.
 To select a class, you have to talk to the class master NPC for the class you wish to become. Once you have selected a class you will not be able to switch until the **server-wide** class selection cooldown reset. This happens every 10 days.
 
-<br>
-
 ### Gatherer
 The gatherer is the only class capable of gathering ore and wood, it does not have any unique crafting recipes.
 <br>
