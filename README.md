@@ -32,7 +32,7 @@ You can learn another language by interacting with a language book, when opened,
 
 When a player interacts with the language book of a language they already know, it will tell them the correct word that a non-speaker of the language would have to enter when using the book.
 
-After entering a word, there is an hour l hour cooldown before you can interact with a book again.
+After entering a word, there is an hour cooldown before you can interact with a book again.
 
 Crafting
 ------
