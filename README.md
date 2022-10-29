@@ -1,4 +1,4 @@
-# ROTK Beginner's Guide
+# ROTK Beginners' Guide
 
 Classes
 ------
