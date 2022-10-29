@@ -32,6 +32,14 @@ When a player interacts with the language book of a language they already know, 
 
 After entering a word, there is an hour cooldown before you can interact with a book again.
 
+Factions
+------
+***Note: On the ROTK 2.1 EU server, there is a distinction between guilds and factions, this guide will not make any distinction between them since they both use the same underlying faction system in the ROTK mod.*** <br><br>
+As of ROTK 2.1, you can form a faction by talking to the Faction Master NPC.<br>
+Faction, have their own storage that any member of the faction can use, factions can also own property and doors that only they can open and close.
+
+Press RSHIFT to open the faction menu, here you can invite and kick other players to your faction, set their rank within the faction, change your faction's colors, and dissolve your faction.
+
 Gathering
 ------
 There are various raw materials that can be gathered by any player of the gatherer class.
@@ -72,7 +80,6 @@ The process of creating alcoholic drinks is identical to baking, except for that
 Once you have a finished barrel of alcohol, you can insert it into a keg (taverns should have one keg at the very least). You can then grab a mug or chalice and fill it up using the keg! 
 
 Use the 'Drink' emote to take a swig of your drink, but take it slow unless you want to get absolutely hammered.
-
 
 Farming
 ------
