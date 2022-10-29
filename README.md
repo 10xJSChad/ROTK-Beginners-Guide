@@ -37,7 +37,7 @@ After entering a word, there is an hour l hour cooldown before you can interact 
 Crafting
 ------
 There are three different crafting stations as of ROTK 2.1; the anvil, workbench, and countertop.
-These simply just have a different selection of crafting recipes, other than that they are identical to each other.
+Each crafting station has a different set of recipes that can be crafted using it.
 
 Smelting
 ------
@@ -45,5 +45,13 @@ Ore has to be smelted into bars in order to be crafted into anything, you can sm
 
 To smelt your ore, simply interact with a furnace and select your ore. Once your ore has been inserted into the furnace, you will need to power the furnace with coal by performing a held interact on the furnace while having coal in your inventory.
 
+Farming
+------
+Seeds can obtained from wild plants and planted at a soil plot. To plant a seed, interact with a soil plot and select the seed you want to plant.
+To farm effectively, your loadout should have each of these weapons: Watering Can, Hoe, and Sickle.
 
+Once the seed is planted, you'll have to water it by interacting with the plot while holding a Watering Can. Overwatering the crop will cause it to take damage and eventually die if left overwatered for too long.
+
+If your crop dies, you can clear the soil plot of the dead crop by hitting it with a Hoe.
+Once your crop is fully grown, it can be harvested by interacting with the soil plot while holding a Sickle.
 
