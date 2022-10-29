@@ -56,7 +56,9 @@ Distilling/Brewing
 ------
 The process of creating alcoholic drinks is identical to baking, except for that whatever you are distilling or brewing can't be burnt.
 
-Once you have a finished barrel of alcohol, you can insert it into a keg (taverns should have one keg at the very least). You can then grab a mug or chalice and fill it up using the keg! Use the 'Drink' emote to take a swig of your drink, but take it slow unless you want to get absolutely hammered.
+Once you have a finished barrel of alcohol, you can insert it into a keg (taverns should have one keg at the very least). You can then grab a mug or chalice and fill it up using the keg! 
+
+Use the 'Drink' emote to take a swig of your drink, but take it slow unless you want to get absolutely hammered.
 
 
 Farming
