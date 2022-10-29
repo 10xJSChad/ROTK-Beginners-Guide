@@ -1,4 +1,9 @@
 # ROTK Beginners' Guide
+Welcome to my ROTK beginners' guide! Before you delve into the contents, please read this little foreword to get the full picture of what this guide is for and why it may not have all the information you're after. <br>
+
+As of writing this (29.10.22), the current version of the mod is ROTK 2.1, and the official server is running the map "Ostrosko". This will not always be the case, and in the future, when the official ROTK community is no longer there and the ROTK mod is free for anyone to host, you may be playing on an entirely different map with an entirely different set of rules. <br>
+
+For this reason, the ROTK Beginners Guide will not include any information on *where* to find things, or anything related to the in-game rules. This guide is solely intended to help you navigate the ROTK mod, and will not be of any use for figuring out where ore, crafting stations, or anything else are on the map.
 
 ### Table of Contents
 1. [Classes](#classes)
