@@ -45,6 +45,20 @@ Ore has to be smelted into bars in order to be crafted into anything, you can sm
 
 To smelt your ore, simply interact with a furnace and select your ore. Once your ore has been inserted into the furnace, you will need to power the furnace with coal by performing a held interact on the furnace while having coal in your inventory.
 
+Baking
+------
+Baking produces food that can be consumed for temporary health/stamina buffs, ingredients crafted into raw food at a countertop.
+To cook your raw food, insert it into a baking oven by interacting with it and selecting the correct recipe, then add firewood to the baking oven by performing a held interact on it while having firewood in your inventory.
+
+Be careful not to burn your food by forgetting it in the oven after it's done cooking!
+
+Distilling/Brewing
+------
+The process of creating alcoholic drinks is identical to baking, except for that whatever you are distilling or brewing can't be burnt.
+
+Once you have a finished barrel of alcohol, you can insert it into a keg (taverns should have one keg at the very least). You can then grab a mug or chalice and fill it up using the keg! Use the 'Drink' emote to take a swig of your drink, but take it slow unless you want to get absolutely hammered.
+
+
 Farming
 ------
 Seeds can obtained from wild plants and planted at a soil plot. To plant a seed, interact with a soil plot and select the seed you want to plant.
@@ -54,4 +68,6 @@ Once the seed is planted, you'll have to water it by interacting with the plot w
 
 If your crop dies, you can clear the soil plot of the dead crop by hitting it with a Hoe.
 Once your crop is fully grown, it can be harvested by interacting with the soil plot while holding a Sickle.
+
+
 
