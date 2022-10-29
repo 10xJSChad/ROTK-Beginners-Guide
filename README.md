@@ -32,6 +32,21 @@ When a player interacts with the language book of a language they already know, 
 
 After entering a word, there is an hour cooldown before you can interact with a book again.
 
+Gathering
+------
+There are various raw materials that can be gathered by any player of the gatherer class.
+
+The current raw materials are: Iron Ore, Gold Ore, Sulphur, Rock, Coal, and Wood Log.<br>
+All of these materials, excluding Coal, are not stackable.
+
+To gather these materials, simply hit them with the appropriate tool (Pickaxe or Hatchet), if you hit it with the correct tool then you will see either green or yellow sparks come out of the location you hit. 
+
+Green sparks mean you're gathering correctly. <br>
+Yellow sparks means you have worn T3 armor at some point in your current life, and will therefore have a significantly lower chance of successfully gathering, but gathering is still possible. <br>
+Red sparks mean you are using the wrong tool or are dealing too little damage, and have no chance of gathering.
+<br><br>
+***NOTE: Gathering sparks do NOT look like the normal sparks that appear when you hit something, these look like small floaty orbs, a bit fantasy looking.***
+
 Crafting
 ------
 There are three different crafting stations as of ROTK 2.1; the anvil, workbench, and countertop.
