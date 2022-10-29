@@ -67,7 +67,8 @@ Green sparks mean you're gathering correctly. <br>
 Yellow sparks means you have worn T3 armor at some point in your current life, and will therefore have a significantly lower chance of successfully gathering, but gathering is still possible. <br>
 Red sparks mean you are using the wrong tool or are dealing too little damage, and have no chance of gathering.
 <br><br>
-***NOTE: Gathering sparks do NOT look like the normal sparks that appear when you hit something, these look like small floaty orbs, a bit fantasy looking.***
+***NOTE: Gathering sparks do NOT look like the normal sparks that appear when you hit something, these look like small floaty orbs, a bit fantasy looking.*** <br>
+***NOTE 2: "Life" refers to your current in-game life, from the moment you spawn until the moment you die. It does not refer to your character's roleplay life.***
 
 ## Crafting
 There are three different crafting stations as of ROTK 2.1; the anvil, workbench, and countertop.
